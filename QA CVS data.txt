@@ -1,0 +1,38 @@
+CSV
+id,first,last,email,
+1,mike,smith,mike@abc.com
+2,amy,william,amy@cnn.com
+3,kevin,findly,kevin@xyz.com
+
+JASON
+{
+"students" : [ {
+			"id":1,
+			"first":"mike",
+			"last":"smith",
+			"email":mike@abc.com",
+			"hobbies"": ["reading","music","travelling"]
+			"address" :{ "add1":"951 N Plum Groove
+				  "city":"Schaumburg",
+				  "zip": 60173	
+                          }
+
+                },
+
+              ]
+}
+
+{
+  "cars" : [
+    {"make" :"toyota",
+    "year" : 2020,
+    "colors" : ["green", "yellow", "blue"],
+    "engine" : {
+        "type" : "6cel",
+        "power" : "100cc",
+        "make" : "toyota"
+        }
+    
+    },{second car}
+  ]
+}
